@@ -14,7 +14,7 @@ Read the instruction to activate the RoundcubeSkins : [Instructions to Use](http
 
 ## Mobile View ##
 
-![Coffee Mobile Roundcube Skins](images/coffee.png)
+![Coffee Mobile Roundcube Skins](images/coffe.png)
 
 ---
 
